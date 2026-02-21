@@ -24,7 +24,7 @@ You can interact with my AI Agent here:
 - **Notifications**: Pushover API
 - **Environment Management**: Python `dotenv`
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
 ### 1. Prerequisites
 - Python 3.8+
@@ -66,7 +66,7 @@ python3 app.py
 ```
 The interface will be available at `http://127.0.0.1:7860`.
 
-## 🚢 Deployment (Hugging Face Spaces)
+## Deployment (Hugging Face Spaces)
 
 This project is optimized for deployment on Hugging Face Spaces using the Gradio SDK.
 
